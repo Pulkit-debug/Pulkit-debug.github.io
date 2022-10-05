@@ -416,8 +416,8 @@ section:nth-child(2n + 1) {
 }
 
 #education #timeline-divider {
-  top: 15.5%;
-  height: 47%;
+  top: 9.5%;
+  height: 68%;
 }
 
 #timeline-divider .timeline-traveller {
@@ -644,7 +644,7 @@ textarea {
   color: #13386fe0;
 }
 #my-details-container {
-  width: 30%;
+  width: 100%;
   margin-left: 10%;
 }
 
